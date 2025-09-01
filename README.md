@@ -1,7 +1,7 @@
 
 <div align="center">
   <h2>philosopher - 42 project</h2>
-  <img src="./img/minitalk.png"  />
+  <img src="./img/philosopher.png"  />
   <br>
 </div>
 
