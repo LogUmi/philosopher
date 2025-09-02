@@ -91,7 +91,7 @@ Run the program with:
 ├── img/                # Content for README
 ├── includes/           # Header files (.h)
 ├── srcs/               # Source code (.c)
-├── licence.txt		    # License MIT
+├── LICENSE.txt		    # License MIT
 ├── Makefile
 ├── mshell.sh			# Script to run philo using valgrind memory check tool
 ├── tshell.sh			# Script to run philo using valgrind helgrind tool
