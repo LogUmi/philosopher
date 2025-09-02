@@ -69,18 +69,6 @@ Run the program with:
 ```bash
 ./philo number_of_philosophers time_to_die time_to_eat time_to_sleep [number_of_times_each_philosopher_must_eat]
 ```
-
-### Example:
-```bash
-./philo 5 800 200 200
-```
-➡️ 5 philosophers, each must eat within 800 ms, eat for 200 ms, sleep for 200 ms.  
-
-```bash
-./philo 5 800 200 200 7
-```
-➡️ Same as above, but the simulation stops once each philosopher has eaten 7 times.  
-
 ---
 
 ## 📂 Project Structure
@@ -100,14 +88,16 @@ Run the program with:
 ---
 
 ## 🔎 Examples
-- Standard run:  
-  ```bash
-  ./philo 4 410 200 200
-  ```
-- Adding meal limit:  
-  ```bash
-  ./philo 5 800 200 200 5
-  ```
+
+```bash
+./philo 5 800 200 200
+```
+➡️ 5 philosophers, each must eat within 800 ms, eat for 200 ms, sleep for 200 ms.  
+
+```bash
+./philo 5 800 200 200 7
+```
+➡️ Same as above, but the simulation stops once each philosopher has eaten 7 times.  
 
 ---
 
