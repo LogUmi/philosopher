@@ -5,8 +5,8 @@
 </div>
 
 ![Language](https://img.shields.io/badge/language-C-blue)
-![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
 ![42](https://img.shields.io/badge/school-42-black)
+![Norminette](https://img.shields.io/badge/norminette-passed-brightgreen)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 > Implementation of the **Dining Philosophers Problem** in C.  
